@@ -12,3 +12,18 @@ C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A2\A2Code\A2Task1
 C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A2\A2Code\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.pdb
 C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A2\A2Code\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.genruntimeconfig.cache
 C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A2\A2Code\A2Task1SortingApp\obj\Debug\net8.0\ref\A2Task1SortingApp.dll
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\bin\Debug\net8.0\A2Task1SortingApp.exe
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\bin\Debug\net8.0\A2Task1SortingApp.deps.json
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\bin\Debug\net8.0\A2Task1SortingApp.runtimeconfig.json
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\bin\Debug\net8.0\A2Task1SortingApp.dll
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\bin\Debug\net8.0\A2Task1SortingApp.pdb
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.AssemblyInfoInputs.cache
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.AssemblyInfo.cs
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.csproj.CoreCompileInputs.cache
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.sourcelink.json
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.dll
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\refint\A2Task1SortingApp.dll
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.pdb
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\A2Task1SortingApp.genruntimeconfig.cache
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task1SortingApp\obj\Debug\net8.0\ref\A2Task1SortingApp.dll

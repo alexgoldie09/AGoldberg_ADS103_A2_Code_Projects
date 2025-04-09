@@ -12,3 +12,18 @@ C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A2\A2Code\A2Task2
 C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A2\A2Code\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.pdb
 C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A2\A2Code\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.genruntimeconfig.cache
 C:\Users\Urkii\OneDrive - MyLearn\2025-Tri1\ADS103\Assessments\A2\A2Code\A2Task2LibraryApp\obj\Debug\net8.0\ref\A2Task2LibraryApp.dll
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\bin\Debug\net8.0\A2Task2LibraryApp.exe
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\bin\Debug\net8.0\A2Task2LibraryApp.deps.json
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\bin\Debug\net8.0\A2Task2LibraryApp.runtimeconfig.json
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\bin\Debug\net8.0\A2Task2LibraryApp.dll
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\bin\Debug\net8.0\A2Task2LibraryApp.pdb
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.AssemblyInfoInputs.cache
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.AssemblyInfo.cs
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.csproj.CoreCompileInputs.cache
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.sourcelink.json
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.dll
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\refint\A2Task2LibraryApp.dll
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.pdb
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\A2Task2LibraryApp.genruntimeconfig.cache
+D:\Personal\Codes\AGoldberg_ADS103_A2_Code_Projects\A2Task2LibraryApp\obj\Debug\net8.0\ref\A2Task2LibraryApp.dll

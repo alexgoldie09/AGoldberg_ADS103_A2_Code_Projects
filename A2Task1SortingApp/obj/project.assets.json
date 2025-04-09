@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Urkii\\OneDrive - MyLearn\\2025-Tri1\\ADS103\\Assessments\\A2\\A2Code\\A2Task1SortingApp\\A2Task1SortingApp.csproj",
+      "projectUniqueName": "D:\\Personal\\Codes\\AGoldberg_ADS103_A2_Code_Projects\\A2Task1SortingApp\\A2Task1SortingApp.csproj",
       "projectName": "A2Task1SortingApp",
-      "projectPath": "C:\\Users\\Urkii\\OneDrive - MyLearn\\2025-Tri1\\ADS103\\Assessments\\A2\\A2Code\\A2Task1SortingApp\\A2Task1SortingApp.csproj",
+      "projectPath": "D:\\Personal\\Codes\\AGoldberg_ADS103_A2_Code_Projects\\A2Task1SortingApp\\A2Task1SortingApp.csproj",
       "packagesPath": "C:\\Users\\Urkii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Urkii\\OneDrive - MyLearn\\2025-Tri1\\ADS103\\Assessments\\A2\\A2Code\\A2Task1SortingApp\\obj\\",
+      "outputPath": "D:\\Personal\\Codes\\AGoldberg_ADS103_A2_Code_Projects\\A2Task1SortingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Urkii\\AppData\\Roaming\\NuGet\\NuGet.Config",
